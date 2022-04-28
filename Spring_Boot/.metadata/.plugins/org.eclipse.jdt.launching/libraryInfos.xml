@@ -2,4 +2,7 @@
 <libraryInfos>
     <libraryInfo home="C:\Users\Fernando Brocco\Downloads\sts-4.14.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre" version="17.0.2"/>
     <libraryInfo home="C:\Users\Fernando Brocco\Downloads\sts-4.14.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208" version="17.0.2"/>
+    <libraryInfo home="C:\Program Files\Java\jdk-18.0.1" version="18.0.1"/>
+    <libraryInfo home="C:\Windows\System32\sts-4.14.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre" version="17.0.2"/>
+    <libraryInfo home="C:\Windows\System32\sts-4.14.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208" version="17.0.2"/>
 </libraryInfos>

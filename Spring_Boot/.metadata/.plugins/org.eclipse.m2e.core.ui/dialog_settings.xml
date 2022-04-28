@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Fernando Brocco\Desktop\Generation\Bloco II\Spring_Boot\hello_world"/>
+			<item value="C:\Users\Fernando Brocco\Desktop\Generation\Bloco II\Spring_Boot\blogpessoal"/>
 			<item value="C:\Users\Fernando Brocco\Desktop\Generation\Springtools\hello_world"/>
 		</list>
 		<list key="projectNameTemplate">
